@@ -1,2 +1,2 @@
-goofy update
-goofy hotfix
+Something removed
+Something added
